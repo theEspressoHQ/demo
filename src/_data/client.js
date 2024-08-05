@@ -1,14 +1,14 @@
 module.exports = {
-    "name": "Code Stitch Web Designs",
-    "email": "help@codestitch.app",
-    "phoneForTel": "555-779-4407",
-    "phoneFormatted": "(555) 779-4407",
+    "name": "Nombre de Empresa",
+    "email": "ventas@empresa.com",
+    "phoneForTel": "871-779-4407",
+    "phoneFormatted": "(871) 779-4407",
     "address": {
-        "lineOne": "First Address Line",
-        "lineTwo": "Second Address Line",
-        "city": "Denver",
-        "state": "CO",
-        "zip": "80206",
+        "lineOne": "1era Linea de Direccion",
+        "lineTwo": "2da Linea de Direccion",
+        "city": "Ciudad",
+        "state": "Estado",
+        "zip": "27000 - CP",
         "mapLink": "https://goo.gl/maps/UAQn4vuGDiwv7DV39"
     },
     "socials": {
